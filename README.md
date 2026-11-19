@@ -1,6 +1,6 @@
 ### hi, i'm m68k
  
-student from Romania, CTF player, interested in web exploitation, reversing and network forensics.
+I'm m68k, a student from Romania at the Military Technical Academy „Ferdinand I”, in the Faculty of Information Systems and Cyber Security. Most of my free time goes into CTFs, security research, and the kind of side projects that start as curiosity and end as a long debugging session.
  
-i play with [NXLL](https://ctftime.org/team/313771) and write about challenges at [m68k.ro](https://m68k.ro).
+i write about challenges at [m68k.ro](https://m68k.ro).
  
